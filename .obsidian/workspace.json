@@ -99,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Главная страница.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Главная страница.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Главная страница.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,10 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66a3d1d7edeeec77",
+  "active": "40a193f87949fedc",
   "lastOpenFiles": [
-    "CosMatch Search/CosMatch - поиск объектов.md",
     "Главная страница.md",
+    "CosMatch Search/CosMatch - поиск объектов.md",
     "CosMatch Search/TSNE/Признаковое пространство/Главная страница.md",
     "CosMatch Search/TSNE/Главная страница.md",
     "CosMatch.md",
