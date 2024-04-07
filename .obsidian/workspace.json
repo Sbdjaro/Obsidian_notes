@@ -142,8 +142,17 @@
                 "file": "CosMatch Search/CosMatch - поиск объектов.md"
               }
             }
+          },
+          {
+            "id": "81673d50f2d671bc",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -163,9 +172,9 @@
   "active": "66a3d1d7edeeec77",
   "lastOpenFiles": [
     "Главная страница.md",
+    "CosMatch Search/CosMatch - поиск объектов.md",
     "CosMatch Search/TSNE/Признаковое пространство/Главная страница.md",
     "CosMatch Search/TSNE/Главная страница.md",
-    "CosMatch Search/CosMatch - поиск объектов.md",
     "CosMatch.md",
     "[[CosMatch.md",
     "CosMatch Search/TSNE/Признаковое пространство",
