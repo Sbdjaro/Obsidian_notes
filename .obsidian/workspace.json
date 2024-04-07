@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CosMatch Search/CosMatch - поиск объектов.md",
+                "file": "Главная страница.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CosMatch Search/CosMatch - поиск объектов.md",
+                "file": "Главная страница.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CosMatch Search/CosMatch - поиск объектов.md",
+                "file": "Главная страница.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CosMatch Search/CosMatch - поиск объектов.md"
+                "file": "Главная страница.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "66a3d1d7edeeec77",
   "lastOpenFiles": [
-    "Главная страница.md",
     "CosMatch Search/CosMatch - поиск объектов.md",
+    "Главная страница.md",
     "CosMatch Search/TSNE/Признаковое пространство/Главная страница.md",
     "CosMatch Search/TSNE/Главная страница.md",
     "CosMatch.md",
